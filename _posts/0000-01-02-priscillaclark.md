@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "I'm trying"
 ---
-Your text
-Use the left arrow to go back!
+![image](https://user-images.githubusercontent.com/80367060/110713959-868dd980-81e1-11eb-8500-7b0ec5d896bf.png)
+
